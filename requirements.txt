@@ -38,7 +38,7 @@ PyYAML==3.12 ; python_version < '3.7'
 PyYAML==3.13 ; python_version >= '3.7'
 qrcode==5.3
 reportlab==3.3.0
-requests==2.20.0
+requests==2.32.4
 suds-jurko==0.6
 vatnumber==1.2
 vobject==0.9.3
